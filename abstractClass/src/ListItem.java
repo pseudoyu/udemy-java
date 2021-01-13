@@ -1,3 +1,6 @@
+/**
+ * @author hexarthur
+ */
 public abstract class ListItem {
 
     protected ListItem rightLink = null;
